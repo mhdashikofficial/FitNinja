@@ -1,0 +1,33 @@
+# Environment
+.env
+*.env.local
+
+# Build outputs
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.apk
+
+# Node
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Expo
+.expo/
+
+# Misc
+*.log
+*.lock
+!pubspec.lock
