@@ -5,7 +5,7 @@
 A professional-grade dual-hemisphere training system built with Flutter, featuring AI-generated workout plans, real-time ML boxing pose detection, and a 50+ module tactical encyclopedia.
 
 ## 🌐 Website
-[fitninja.vercel.app](https://fitninja.vercel.app)
+[fitninja.fun](https://fitninja.fun)
 
 ## ✨ Features
 
